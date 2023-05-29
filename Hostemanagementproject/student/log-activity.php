@@ -79,7 +79,6 @@
                     <h4 class="page-title text-truncate text-dark font-weight-medium mb-1">My Log Activities</h4>
                 </div>
 
-                <!-- By CodeAstro - codeastro.com -->
                 <div class="col-12">
                     <div class="card">
 

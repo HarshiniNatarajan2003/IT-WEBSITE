@@ -2,7 +2,7 @@
  
     date_default_timezone_set('Asia/Kolkata'); 
     $welcome_string="Welcome"; 
-    $numeric_date=date("G"); +
+    $numeric_date=date("G"); 
     if($numeric_date>=0&&$numeric_date<=11) 
     $welcome_string="Good Morning,"; 
     else if($numeric_date>=12&&$numeric_date<=17) 

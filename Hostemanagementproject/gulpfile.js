@@ -1,4 +1,4 @@
-//gulpfile.js
+
 const gulp = require('gulp'),
     minifyCSS = require('gulp-minify-css'),
     uglify = require('gulp-uglify'),
